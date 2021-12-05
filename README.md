@@ -1,1 +1,1 @@
-# HW18-Fitness-Tracker
+# HW18-FitnessTracker
