@@ -17,7 +17,7 @@ Fitness Tracker application to track the distance, duration, and exercises of a 
 * [Questions](#questions)
 
 # Deployed Website: 
-[Fitness Tracker]()
+[Fitness Tracker](https://kssfitnesstracker.herokuapp.com/)
 
 # Screenshot :
 
